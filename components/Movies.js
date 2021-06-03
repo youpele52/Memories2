@@ -1,4 +1,5 @@
 import Movie from '../components/Movie'
+// FlipMove add some fluidly animation when animating llist of items more here https://www.npmjs.com/package/react-flip-move
 import FlipMove from 'react-flip-move'
 
 // this uses server side rendering

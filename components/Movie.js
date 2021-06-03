@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { ThumbUpIcon } from '@heroicons/react/outline'
+//  https://reactjs.org/docs/forwarding-refs.html
 import { forwardRef } from 'react'
 
 const Movie = forwardRef(({ movie }, ref) => {
